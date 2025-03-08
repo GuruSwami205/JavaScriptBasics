@@ -316,16 +316,3 @@ const person2 = { name: 'Jane', age: 45, occupation: 'Data Analyst' };*/
 // }
 // console.log(personInfo(person1));
 // console.log(personInfo(person2));
-
-
-
-
-
-
-
-
-
-
-
-
-
